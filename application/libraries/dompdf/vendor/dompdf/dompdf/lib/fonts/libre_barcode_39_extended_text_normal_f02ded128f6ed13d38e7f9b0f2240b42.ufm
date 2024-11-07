@@ -1,0 +1,124 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)
+FontName Libre Barcode 39 Extended Text
+FontSubfamily Regular
+UniqueID 1.005;GRCR;LibreBarcode39ExtendedText-Regular
+FullName Libre Barcode 39 Extended Text Regular
+Version Version 1.005; ttfautohint (v1.8.3)
+PostScriptName LibreBarcode39ExtendedText-Regular
+LicenseURL https://scripts.sil.org/OFL
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 600
+Descender -400
+FontBBox 0 -400 930 600
+StartCharMetrics 237
+U 0 ; WX 0 ; N NULL ; G 2
+U 13 ; WX 0 ; N CR ; G 1
+U 32 ; WX 480 ; N uni0020 ; G 139
+U 33 ; WX 960 ; N uni0021 ; G 140
+U 34 ; WX 960 ; N uni0022 ; G 141
+U 35 ; WX 960 ; N uni0023 ; G 142
+U 36 ; WX 960 ; N uni0024 ; G 143
+U 37 ; WX 960 ; N uni0025 ; G 144
+U 38 ; WX 960 ; N uni0026 ; G 145
+U 39 ; WX 960 ; N uni0027 ; G 146
+U 40 ; WX 960 ; N uni0028 ; G 147
+U 41 ; WX 960 ; N uni0029 ; G 148
+U 42 ; WX 480 ; N uni002A ; G 149
+U 43 ; WX 960 ; N uni002B ; G 150
+U 44 ; WX 960 ; N uni002C ; G 151
+U 45 ; WX 480 ; N uni002D ; G 152
+U 46 ; WX 480 ; N uni002E ; G 153
+U 47 ; WX 960 ; N uni002F ; G 154
+U 48 ; WX 480 ; N uni0030 ; G 155
+U 49 ; WX 480 ; N uni0031 ; G 156
+U 50 ; WX 480 ; N uni0032 ; G 157
+U 51 ; WX 480 ; N uni0033 ; G 158
+U 52 ; WX 480 ; N uni0034 ; G 159
+U 53 ; WX 480 ; N uni0035 ; G 160
+U 54 ; WX 480 ; N uni0036 ; G 161
+U 55 ; WX 480 ; N uni0037 ; G 162
+U 56 ; WX 480 ; N uni0038 ; G 163
+U 57 ; WX 480 ; N uni0039 ; G 164
+U 58 ; WX 960 ; N uni003A ; G 165
+U 59 ; WX 960 ; N uni003B ; G 166
+U 60 ; WX 960 ; N uni003C ; G 167
+U 61 ; WX 960 ; N uni003D ; G 168
+U 62 ; WX 960 ; N uni003E ; G 169
+U 63 ; WX 960 ; N uni003F ; G 170
+U 64 ; WX 960 ; N uni0040 ; G 171
+U 65 ; WX 480 ; N uni0041 ; G 172
+U 66 ; WX 480 ; N uni0042 ; G 173
+U 67 ; WX 480 ; N uni0043 ; G 174
+U 68 ; WX 480 ; N uni0044 ; G 175
+U 69 ; WX 480 ; N uni0045 ; G 176
+U 70 ; WX 480 ; N uni0046 ; G 177
+U 71 ; WX 480 ; N uni0047 ; G 178
+U 72 ; WX 480 ; N uni0048 ; G 179
+U 73 ; WX 480 ; N uni0049 ; G 180
+U 74 ; WX 480 ; N uni004A ; G 181
+U 75 ; WX 480 ; N uni004B ; G 182
+U 76 ; WX 480 ; N uni004C ; G 183
+U 77 ; WX 480 ; N uni004D ; G 184
+U 78 ; WX 480 ; N uni004E ; G 185
+U 79 ; WX 480 ; N uni004F ; G 186
+U 80 ; WX 480 ; N uni0050 ; G 187
+U 81 ; WX 480 ; N uni0051 ; G 188
+U 82 ; WX 480 ; N uni0052 ; G 189
+U 83 ; WX 480 ; N uni0053 ; G 190
+U 84 ; WX 480 ; N uni0054 ; G 191
+U 85 ; WX 480 ; N uni0055 ; G 192
+U 86 ; WX 480 ; N uni0056 ; G 193
+U 87 ; WX 480 ; N uni0057 ; G 194
+U 88 ; WX 480 ; N uni0058 ; G 195
+U 89 ; WX 480 ; N uni0059 ; G 196
+U 90 ; WX 480 ; N uni005A ; G 197
+U 91 ; WX 960 ; N uni005B ; G 198
+U 92 ; WX 960 ; N uni005C ; G 199
+U 93 ; WX 960 ; N uni005D ; G 200
+U 94 ; WX 960 ; N uni005E ; G 201
+U 95 ; WX 960 ; N uni005F ; G 202
+U 96 ; WX 960 ; N uni0060 ; G 203
+U 97 ; WX 960 ; N uni0061 ; G 204
+U 98 ; WX 960 ; N uni0062 ; G 205
+U 99 ; WX 960 ; N uni0063 ; G 206
+U 100 ; WX 960 ; N uni0064 ; G 207
+U 101 ; WX 960 ; N uni0065 ; G 208
+U 102 ; WX 960 ; N uni0066 ; G 209
+U 103 ; WX 960 ; N uni0067 ; G 210
+U 104 ; WX 960 ; N uni0068 ; G 211
+U 105 ; WX 960 ; N uni0069 ; G 212
+U 106 ; WX 960 ; N uni006A ; G 213
+U 107 ; WX 960 ; N uni006B ; G 214
+U 108 ; WX 960 ; N uni006C ; G 215
+U 109 ; WX 960 ; N uni006D ; G 216
+U 110 ; WX 960 ; N uni006E ; G 217
+U 111 ; WX 960 ; N uni006F ; G 218
+U 112 ; WX 960 ; N uni0070 ; G 219
+U 113 ; WX 960 ; N uni0071 ; G 220
+U 114 ; WX 960 ; N uni0072 ; G 221
+U 115 ; WX 960 ; N uni0073 ; G 222
+U 116 ; WX 960 ; N uni0074 ; G 223
+U 117 ; WX 960 ; N uni0075 ; G 224
+U 118 ; WX 960 ; N uni0076 ; G 225
+U 119 ; WX 960 ; N uni0077 ; G 226
+U 120 ; WX 960 ; N uni0078 ; G 227
+U 121 ; WX 960 ; N uni0079 ; G 228
+U 122 ; WX 960 ; N uni007A ; G 229
+U 123 ; WX 960 ; N uni007B ; G 230
+U 124 ; WX 960 ; N uni007C ; G 231
+U 125 ; WX 960 ; N uni007D ; G 232
+U 126 ; WX 960 ; N uni007E ; G 233
+U 160 ; WX 480 ; N uni00A0 ; G 234
+U 194 ; WX 480 ; N uni00C2 ; G 235
+U 8203 ; WX 0 ; N zwspace ; G 236
+EndCharMetrics
+EndFontMetrics
